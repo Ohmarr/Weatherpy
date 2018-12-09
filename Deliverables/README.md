@@ -7,6 +7,8 @@
 3) Geolocation seems to have little influence on cloudiness or windspeed.
 4) Humidity tends to increase as the north and south pole are approached.
 '''
+
+
 '''
 Tasked with building a representative model of city weather based on geolocation;
 Will utilize OpenWeatherMap(API) & Citipy to develop model.
